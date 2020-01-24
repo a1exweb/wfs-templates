@@ -1,0 +1,2 @@
+[2020-01-16 19:59:35] layer "www.tempees.com": Unsupported extension: com
+[2020-01-16 20:06:00] layer "Designed with curved hands in Tempees.com": Unsupported extension: com
